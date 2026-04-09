@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://i.imgur.com/NdA8gJ2.gif"  />
+  <img height="500" src="https://i.imgur.com/NdA8gJ2.gif"  />
 </div>
 
 ###
