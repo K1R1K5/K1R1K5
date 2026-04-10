@@ -1,6 +1,6 @@
 # 👋 Hi There!
 # 💫 About Me:
-⚡Future Frontend Developer<br>🌱Currently, I'm learning JS in Elbrus courses)<br>🔭 I will soon start working on my personal analogue of "Obsodian"
+⚡Future Frontend Developer<br>🌱Currently, I'm learning JS in Elbrus courses)<br>🔭 In the future, I plan to build my own analogue of "Obsidian"
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
