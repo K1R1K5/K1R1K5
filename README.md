@@ -19,3 +19,7 @@
 </div>
 
 ###
+
+![snake animation](https://raw.githubusercontent.com/K1R1K5/K1R1K5/output/snake.svg)
+
+###
