@@ -10,6 +10,10 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=K1R1K5)
+
+###
+
 <div align="center">
   <img height="500" src="https://i.imgur.com/NdA8gJ2.gif"  />
 </div>
