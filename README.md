@@ -2,7 +2,7 @@
 # 💫 About Me:
 ⚡Future Frontend Developer<br>🌱Currently, I'm learning JS in Elbrus courses)<br>🔭 In the future, I plan to build my own analogue of "Obsidian"
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ###
 [![](https://visitcount.itsvg.in/api?id=K1R1K5&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
@@ -15,3 +15,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=0dqtmbnva2xyl4mcxfehxx3g6&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
